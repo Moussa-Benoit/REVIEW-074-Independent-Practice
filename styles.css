@@ -1,0 +1,37 @@
+.logo {
+    width: 200px;
+    border-radius: 25px;
+    padding: 20px;
+    width: 500px;
+}
+h4{
+    text-align:center;
+}
+img {
+    width: 300px;
+}
+
+.game-one {
+    display: flex;
+    justify-content: center;
+}
+
+.game2 {
+    display: flex;
+    justify-content: center;
+}
+
+.cyberpunk-reviews{
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.reviews-nba{
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
